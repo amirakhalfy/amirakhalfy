@@ -1,6 +1,6 @@
 # Hello there! 👋 I'm Amira Khalfi
 
-<img src="https://github.com/amirakhalfy/amirakhalfy/blob/f5b2ad3ce605996f733411c610a385cd3dc27159/profile.jpeg" align="right" width="30%" style="margin-bottom:20px;"/>
+<img src="https://github.com/amirakhalfy/amirakhalfy/blob/f5b2ad3ce605996f733411c610a385cd3dc27159/profile.jpeg" align="right" width="30%" style="margin-bottom:100px;"/>
 
 Aspiring to become a data whisperer, I'm currently on an exciting journey through the realms of Data Science and Artificial Intelligence.
 
