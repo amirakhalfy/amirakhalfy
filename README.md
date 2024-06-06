@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hello there! 👋 I'm Amira Khalfi
 
-<!--
-**amirakhalfy/amirakhalfy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring to become a data whisperer, I'm currently on an exciting journey through the realms of Data Science and Artificial Intelligence.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 Currently exploring the fascinating world of data science , IA and Actuarial Science
+- 💬 Always up for a chat about Machine Learning ,Deep Learning and NLP
+- 📫 Reach me at amira.khalfi@esprit.tn or amirakhalfy12@gmail.com
+- ⚡ Fun fact:you can find me stress-eating copious amounts of chocolate! 🍫
+
+
+## Let's Connect
+
+- [GitHub][(https://github.com/amirakhalfy)]
+
+## Languages and Tools
+
+Dabbling in the tech toolkit:
+- React
+- Django
+- Flask
+- Flutter
+- Git
+- HTML5
+- MongoDB
+- MySQL
+- OpenCV
+- Oracle
+- Pandas
+- Python
+- PyTorch
+- scikit-learn
+- Seaborn
+- TensorFlow
+- R
+- MATLAB
+
+Let's dive into this data adventure together, armed with coffee, code, and the occasional chocolate bar! 🚀🍫
