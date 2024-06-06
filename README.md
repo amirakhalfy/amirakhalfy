@@ -15,26 +15,4 @@ Aspiring to become a data whisperer, I'm currently on an exciting journey throug
 
 - [GitHub][(https://github.com/amirakhalfy)]
 
-## Languages and Tools
-
-Dabbling in the tech toolkit:
-- React
-- Django
-- Flask
-- Flutter
-- Git
-- HTML5
-- MongoDB
-- MySQL
-- OpenCV
-- Oracle
-- Pandas
-- Python
-- PyTorch
-- scikit-learn
-- Seaborn
-- TensorFlow
-- R
-- MATLAB
-
 Let's dive into this data adventure together, armed with coffee, code, and the occasional chocolate bar! 🚀🍫
